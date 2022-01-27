@@ -1,0 +1,5 @@
+.header{
+    width: 100%;
+    height: min(300px, 100px);
+    border: solid 1px;
+}
